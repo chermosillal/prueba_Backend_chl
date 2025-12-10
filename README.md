@@ -32,8 +32,6 @@ json
   "id": 1,
   "nombre": "Cortado Premium"
 }
-
-**Respuestas**:
 - `200 OK`: Café actualizado exitosamente
 - `400 Bad Request`: El ID del parámetro no coincide con el ID del body
 - `404 Not Found`: Café no encontrado
