@@ -1,4 +1,5 @@
-Este proyecto corresponde a una prueba de testing unitario para la API REST de la Cafetería Nanacao. La cafetería está abriendo una nueva sucursal en el centro de la ciudad y necesita asegurar que todas las funcionalidades de su sistema de administración funcionen correctamente mediante tests automatizados.
+Prueba de testing unitario para la API REST de la Cafetería Nanacao.
+La cafetería está abriendo una nueva sucursal en el centro de la ciudad y necesita asegurar que todas las funcionalidades de su sistema de administración funcionen correctamente mediante tests automatizados.
 
 ## Instalación
 1. Clonar el repositorio
